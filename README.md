@@ -1,6 +1,6 @@
 # Olá, pessoal!
 
-Meu nome é Dieniffer, mas você pode me chamar de Jay, apelido que recebi de meus amigos na adolescência. Estou em formação em um curso intensivo de Desenvolvimento de Software com foco em Back-End, mas dei início na minha transição de carreira com um curso técnico de Desenvolvimento de Software, e sigo cada vez mais entusiasmada com área.
+Meu nome é Dieniffer, sou desenvolvedora Back-End. Estou em formação em um curso intensivo de Desenvolvimento Front-End para complementar minhas Skills, também cursando Análise e Desenvolvimento de Sistemas.
 
 Esse perfil foi criado para adicionar meus projetos, documentando minha experiência, enquanto aproveito o ambiente para evoluir com a experiência de outros devs.
 
